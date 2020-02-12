@@ -996,3 +996,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.12-20.41.40:227][791]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
 [2020.02.12-20.41.40:751][791]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2020.02.12-20.41.44:307][208]LogSlate: Window 'TestLevel' being destroyed
+[2020.02.12-21.01.09:255][460]LogSlate: Window 'TestLevel' being destroyed
+[2020.02.12-21.01.57:167][944]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Assets/UiElements/UiBuildMenu.UiBuildMenu
+[2020.02.12-21.04.59:517][241]BlueprintLog: New page: Compile UiBuildMenu
+[2020.02.12-21.04.59:568][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.02.12-21.05.49:238][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.02.12-21.05.49:239][ 69]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestLevel' took 0.034
+[2020.02.12-21.05.49:240][ 69]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/UiElements/UiBuildMenu] ([1] browsable assets)...
+[2020.02.12-21.05.49:240][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/UiElements/UiBuildMenu]
+[2020.02.12-21.05.49:254][ 69]LogSavePackage: Moving '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Saved/UiBuildMenu_Auto123DDF6D14CEE90AEF1CAC48660432F62.tmp' to '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Saved/Autosaves/Game/Assets/UiElements/UiBuildMenu_Auto1.uasset'
+[2020.02.12-21.05.49:255][ 69]LogFileHelpers: Auto-saving content packages took 0.015
+[2020.02.12-21.07.59:372][ 85]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.12-21.10.17:455][528]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.12-21.14.00:290][899]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.12-21.17.29:644][389]LogSlate: Window 'Delete Variable' being destroyed
+[2020.02.12-21.20.15:229][  8]LogSlate: Took 0.003837 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.12-21.24.16:201][961]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.02.12-21.24.16:236][961]LogSavePackage: Moving '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Saved/TestLevel_Auto2D2BE7F9C4252EF88A519B887729CBCAE.tmp' to '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Saved/Autosaves/Game/Levels/TestLevel_Auto2.umap'
+[2020.02.12-21.24.16:239][961]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestLevel' took 0.073
+[2020.02.12-21.24.16:239][961]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.073
+[2020.02.12-21.24.16:239][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/UiElements/UiTeamInfo] ([1] browsable assets)...
+[2020.02.12-21.24.16:239][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/UiElements/UiTeamInfo]
+[2020.02.12-21.24.16:245][961]LogSavePackage: Moving '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Saved/UiTeamInfo_Auto2108F627F4003DD26A1C3F8ABA43C02F8.tmp' to '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Saved/Autosaves/Game/Assets/UiElements/UiTeamInfo_Auto2.uasset'
+[2020.02.12-21.24.16:246][961]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/UiElements/UiGameMenu] ([1] browsable assets)...
+[2020.02.12-21.24.16:246][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/UiElements/UiGameMenu]
+[2020.02.12-21.24.16:252][961]LogSavePackage: Moving '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Saved/UiGameMenu_Auto26B6C819142BD28616C91B39A1F4A7982.tmp' to '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Saved/Autosaves/Game/Assets/UiElements/UiGameMenu_Auto2.uasset'
+[2020.02.12-21.24.16:252][961]LogFileHelpers: Auto-saving content packages took 0.014
+[2020.02.12-21.30.12:159][984]BlueprintLog: New page: Compile TestLevel
+[2020.02.12-21.30.12:367][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.02.12-21.33.32:565][773]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.12-21.33.37:956][412]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.12-21.35.07:300][998]BlueprintLog: New page: Compile TestLevel
+[2020.02.12-21.35.07:498][998]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.02.12-21.35.46:221][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.02.12-21.35.46:413][129]LogSavePackage: Moving '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Saved/TestLevel_Auto3630F8B1F4D8B442952EDEC9DDDD06B50.tmp' to '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Saved/Autosaves/Game/Levels/TestLevel_Auto3.umap'
+[2020.02.12-21.35.46:415][129]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestLevel' took 0.225
+[2020.02.12-21.35.46:415][129]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.225
