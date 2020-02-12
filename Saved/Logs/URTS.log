@@ -1032,3 +1032,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.12-21.35.46:413][129]LogSavePackage: Moving '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Saved/TestLevel_Auto3630F8B1F4D8B442952EDEC9DDDD06B50.tmp' to '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Saved/Autosaves/Game/Levels/TestLevel_Auto3.umap'
 [2020.02.12-21.35.46:415][129]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TestLevel' took 0.225
 [2020.02.12-21.35.46:415][129]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.225
+[2020.02.12-21.36.13:330][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.02.12-21.36.13:357][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TestLevel" FILE="../../../../../../Users/18642/Documents/Unreal Projects/URTS/Content/Levels/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.12-21.36.13:388][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.02.12-21.36.13:574][443]LogSavePackage: Moving '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Saved/TestLevelDF5307C94A99543A3298A885193CDB79.tmp' to '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Content/Levels/TestLevel.umap'
+[2020.02.12-21.36.13:598][443]LogFileHelpers: Saving map 'TestLevel' took 0.242
+[2020.02.12-21.36.13:598][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UiElements/UiBuildMenu" FILE="../../../../../../Users/18642/Documents/Unreal Projects/URTS/Content/Assets/UiElements/UiBuildMenu.uasset" SILENT=true
+[2020.02.12-21.36.13:612][443]LogSavePackage: Moving '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Saved/UiBuildMenu032873E24C291153C5696290DC23334D.tmp' to '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Content/Assets/UiElements/UiBuildMenu.uasset'
+[2020.02.12-21.36.13:615][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UiElements/UiTeamInfo" FILE="../../../../../../Users/18642/Documents/Unreal Projects/URTS/Content/Assets/UiElements/UiTeamInfo.uasset" SILENT=true
+[2020.02.12-21.36.13:622][443]LogSavePackage: Moving '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Saved/UiTeamInfo85A094F241DC31798BB28AB11C4B3A50.tmp' to '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Content/Assets/UiElements/UiTeamInfo.uasset'
+[2020.02.12-21.36.13:625][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UiElements/UiGameMenu" FILE="../../../../../../Users/18642/Documents/Unreal Projects/URTS/Content/Assets/UiElements/UiGameMenu.uasset" SILENT=true
+[2020.02.12-21.36.13:633][443]LogSavePackage: Moving '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Saved/UiGameMenu47BEA96947BD380ABD67F3BCD8DBE00F.tmp' to '../../../../../../Users/18642/Documents/Unreal Projects/URTS/Content/Assets/UiElements/UiGameMenu.uasset'
+[2020.02.12-21.36.13:661][443]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.12-21.36.13:661][443]LogContentValidation: Display: Validating World /Game/Levels/TestLevel.TestLevel
+[2020.02.12-21.36.13:661][443]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/UiElements/UiBuildMenu.UiBuildMenu
+[2020.02.12-21.36.13:661][443]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/UiElements/UiTeamInfo.UiTeamInfo
+[2020.02.12-21.36.13:661][443]LogContentValidation: Display: Validating WidgetBlueprint /Game/Assets/UiElements/UiGameMenu.UiGameMenu
+[2020.02.12-21.36.50:617][476]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.12-21.36.50:617][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.12-21.36.50:620][476]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.12-21.36.50:620][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
